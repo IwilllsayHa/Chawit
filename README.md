@@ -27,6 +27,21 @@
 - HTML และ CSS
 - การใช้ Git และ GitHub
 
+---
+
+### 🛠️ เครื่องมือที่ใช้อยู่
+
+<!-- ลบอันที่ยังไม่ได้ใช้ออกให้หมด เหลือเท่าที่ใช้จริงแม้จะเหลือแค่สามอันก็ไม่เป็นไร
+     อยากเพิ่มอันอื่น เปลี่ยนสามส่วนในลิงก์: ชื่อที่แสดง, รหัสสี, และ logo=<ชื่อ>
+     รายชื่อ logo ที่ใช้ได้ดูที่ simpleicons.org -->
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
 ### 🎯 สนใจไปทางไหน
 
 <!-- เลือกลบข้อที่ไม่ใช่ออก หรือเขียนใหม่เป็นของตัวเอง -->
