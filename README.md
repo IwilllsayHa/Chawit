@@ -1,77 +1,68 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Chawit 👋</h1>
+<h3 align="center">a.k.a. <b>IwilllsayHa</b> — Computer Engineering Student</h3>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno2NXR6YmcxN3ZhaWg3bHBtcGxkN3YyOG0zMTFhOHhyMmxuMzh1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4qasvK0QwxsCW3ypyA/giphy.gif" width="130" height="130" style="border-radius: 50%; object-fit: cover;" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=440&lines=2nd-year+Computer+Engineering+Student;Learning+HTML+%2B+CSS+%2B+Git%2FGitHub;Exploring+Embedded+Systems+%26+IoT" alt="Typing SVG" />
+</p>
 
-# Hi, I'm Chawit 👋
-### <sub>a.k.a. **IwilllsayHa** · Computer Engineering Student</sub>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=595959&center=true&vCenter=true&width=440&lines=2nd-year+Computer+Engineering+Student;Learning+HTML+%2B+CSS+%2B+Git%2FGitHub;Exploring+Embedded+Systems+%26+IoT" alt="Typing SVG" />
+### 🎓 เกี่ยวกับผม
+- 📚 นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 2 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
+- 🌐 เว็บไซต์ของผม: **[IwilllsayHa.github.io](https://IwilllsayHa.github.io)**
+- 🐸 คติประจำตัว: *"frog"* 😇
 
-<br>
+---
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://IwilllsayHa.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/IwilllsayHa)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100016900877916)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pla_sawai/)
-
-</div>
-
-<br>
-
-## 🎓 เกี่ยวกับผม
-
-นักศึกษาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่ 2 มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
-คติประจำตัว — *"frog"* 🐸
-
-<br>
-
-## 🌱 กำลังเรียนรู้
-
+### 🌱 กำลังเรียนรู้
 - พื้นฐานอินเทอร์เน็ตและบริการออนไลน์
 - HTML และ CSS
 - การใช้ Git และ GitHub
 
-<br>
+---
 
-## 🛠️ เครื่องมือที่ใช้อยู่
-
+### 🛠️ เครื่องมือที่ใช้อยู่
 <p>
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<br>
+---
 
-## 🎯 สนใจไปทางไหน
-
+### 🎯 สนใจไปทางไหน
 - 🔌 ระบบสมองกลฝังตัว (Embedded Systems) และ IoT
 - 🌐 เครือข่ายคอมพิวเตอร์
 - 💻 การพัฒนาเว็บ
 
-<br>
+---
 
-## 📌 ผลงาน
-
+### 📌 ผลงาน
 ยังอยู่ในช่วงเริ่มต้น กำลังสะสมผลงานทีละชิ้น 🚧
 
 | Repository | รายละเอียด |
-|:--|:--|
+|---|---|
 | [Chawit](https://github.com/IwilllsayHa/Chawit) | โปรเจกต์ HTML ส่วนตัว |
 | [road-to-ce](https://github.com/IwilllsayHa/road-to-ce) | Fork จาก pyxdv/road-to-ce (Python) |
 
-<br>
+ติดตามผลงานเพิ่มเติมได้ที่เว็บไซต์ด้านบน 🔝
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IwilllsayHa&show_icons=true&theme=graywhite&hide_border=true&hide_title=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IwilllsayHa&theme=graywhite&hide_border=true" height="165"/>
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IwilllsayHa&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IwilllsayHa" alt="GitHub streak" height="165"/>
+</p>
 
-<br>
+---
 
-<div align="center">
-<sub>⭐ From <a href="https://github.com/IwilllsayHa">IwilllsayHa</a></sub>
-</div>
+### 📫 ติดต่อผม
+<p>
+  <a href="https://github.com/IwilllsayHa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100016900877916"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/pla_sawai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐ From <a href="https://github.com/IwilllsayHa">IwilllsayHa</a></i></p>
