@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno2NXR6YmcxN3ZhaWg3bHBtcGxkN3YyOG0zMTFhOHhyMmxuMzh1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4qasvK0QwxsCW3ypyA/giphy.gif" width="300" />
+  <img src="https://giphy.com/gifs/skeleton-skelet-skileton-4qasvK0QwxsCW3ypyA" width="300" />
 </p>
 
 <h1 align="center">Hi, I'm Chawit 👋</h1>
