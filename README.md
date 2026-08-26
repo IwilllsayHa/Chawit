@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IwilllsayHa&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" height="165"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=IwilllsayHa&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" height="165"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IwilllsayHa" alt="GitHub streak" height="165"/>
 </p>
 
